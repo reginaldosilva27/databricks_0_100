@@ -1,5 +1,5 @@
-# databricks_0_100
-Scripts about Databrick
+# Databricks_0_100
+Scripts about everything i know!
 
 We'll talk about a lot of cool stuff around Databricks, come on!
 This is a mind map, it doesn't cover everything, but it's just the beginning.
