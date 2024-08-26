@@ -1,29 +1,29 @@
 # Step by step
-0 - Instalação do Databricks CLI
-1 - Instalação do UCX via databricks CLI 
-1.1 - Arquivo de configurações
-1.2 - Navegando pelos comandos disponiveis
-1.3 - UCX Workflows
-1.4 - UCX Dashboards
-1.5 - Tabelas do sistema UCX
-2 - Configuração das permissões no Databricks CLI
-2.1 - Auth profiles
-3 - Assessment
-3.1 - Dashboard de migração
-4 - Criação de dependencias
-4.0 - Criação e migração de grupos para o Account
-4.1 - Criação e atribuição de Metastore
-4.2 - Criação de Access Connector no Azure para Storage Credential
-4.3 - Criação de Storage Credential
-4.4 - Criação das External Locations
-5 - Criação dos Catalogos e Schemas
-6 - Criação do Table Mapping - CSV com a relação das tabelas e depara
-7 - Migração das tabelas External 
-8 - Migração das tabelas Manageds e Tabelas no Mount
-9 - Reconciliação de dados
-10 - Acompanhamento no Dashboard de Migração
-11 - Avaliação e migração de código
-12 - Limpeza dos Objetos antigos
+0 - Instalação do Databricks CLI <br>
+1 - Instalação do UCX via databricks CLI <br>
+1.1 - Arquivo de configurações <br>
+1.2 - Navegando pelos comandos disponiveis <br>
+1.3 - UCX Workflows <br>
+1.4 - UCX Dashboards <br>
+1.5 - Tabelas do sistema UCX <br>
+2 - Configuração das permissões no Databricks CLI <br>
+2.1 - Auth profiles <br>
+3 - Assessment <br>
+3.1 - Dashboard de migração <br>
+4 - Criação de dependencias <br>
+4.0 - Criação e migração de grupos para o Account <br>
+4.1 - Criação e atribuição de Metastore <br>
+4.2 - Criação de Access Connector no Azure para Storage Credential <br>
+4.3 - Criação de Storage Credential <br>
+4.4 - Criação das External Locations <br>
+5 - Criação dos Catalogos e Schemas <br>
+6 - Criação do Table Mapping - CSV com a relação das tabelas e depara <br>
+7 - Migração das tabelas External  <br>
+8 - Migração das tabelas Manageds e Tabelas no Mount <br>
+9 - Reconciliação de dados <br>
+10 - Acompanhamento no Dashboard de Migração <br>
+11 - Avaliação e migração de código <br>
+12 - Limpeza dos Objetos antigos <br>
 
 # Instalando o Databricks CLI - Mac /  Linux
 brew -v
